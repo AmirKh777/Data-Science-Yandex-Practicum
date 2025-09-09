@@ -6,3 +6,4 @@
 | [Предобработка данных](https://tinyurl.com/mrxujmhx)              | Исследование надежности заемщиков                     | *pandas*                                     |
 | [Исследовательский анализ данных](https://tinyurl.com/5w8m7cyw)   | Исследование объявлений о продаже квартир             | *pandas*, *matplotlib*, *datetime*           |
 | [Статистический анализ данных](https://tinyurl.com/p8y7uzdr)      | Аналитика популярного сервиса аренды самокатов GoFast | *pandas*, *matplotlib*, *numpy*, *scipy*     |
+| [Сборный проект 1](https://tinyurl.com/5dp5xpz5)                  | Аналитика закономерности успешности игр.    | *pandas*, *matplotlib*, *numpy*, *scipy*, *seaborn*    |
